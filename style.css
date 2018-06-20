@@ -11,7 +11,7 @@ body {
       text-align:center;
       }
       
-nav {
+    nav {
     text-align:center;
 }
       
@@ -32,4 +32,11 @@ figcaption {
      margin:auto;
 }
 
+#details div {
+  display:block;
+  float:left;
+  background:blue;
+  width:25px;
+}
+  
 
