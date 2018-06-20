@@ -12,7 +12,7 @@ body {
       }
       
     nav a { 
-      padding-right: 10000px;
+      padding-right: 50;
       padding-left: 10px;
       background: gray;
     }
